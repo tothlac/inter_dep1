@@ -1,0 +1,4 @@
+[{<<"final_dep">>,
+  {git,"git@github.com:tothlac/final_dep.git",
+       {ref,"a23da0bc66f5eee3788a668e15534647a9bd539e"}},
+  0}].
